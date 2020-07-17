@@ -1,14 +1,3 @@
-/**
- * @file    main.c
- * @brief   tool for automatic test plan generation
- * @author  Pavel Marusyk (p.marusik@samsung.com)
- * @version 1.0
- * @date    Created March 2, 2013 10:23
- * @par     In Samsung Ukraine R&D Center (SRK) under a contract between
- * @par     LLC "Samsung Electronics Ukraine Company" (Kiev, Ukraine) and "Samsung Elecrtronics Co", Ltd (Seoul, Republic of Korea)
- * @par     Copyright: (c) Samsung Electronics Co, Ltd 2013. All rights reserved.
-**/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
